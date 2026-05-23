@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Princess Theme (by Musfirat)",
+  "version": "1.0",
+  "theme": {
+     "images": {
+      "theme_frame":"top.png",
+      "theme_ntp_background": "princess.png"
+    },
+    "properties": {
+  "ntp_background_alignment": "center",
+  "ntp_background_repeat": "no-repeat"
+    },
+    "colors": {
+        "frame": [231,199,102], 
+        "frame_inactive": [190, 160, 50],
+
+        "toolbar": [231,199,102],
+
+        "tab_text": [255, 255, 255],
+        "tab_background_text": [255, 255, 255],
+
+        "bookmark_text": [0, 0, 0],
+
+        "omnibox_background": [255, 248, 220],
+        "omnibox_text": [0, 0, 0],
+
+        "toolbar_button_icon": [255, 255, 255],
+
+        "ntp_background": [231,199,102]
+    }
+  }
+}
