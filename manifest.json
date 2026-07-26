@@ -1,33 +1,30 @@
 {
   "manifest_version": 3,
-  "name": "Princess Theme (by Musfirat)",
+  "name": "Love in Paris 🇫🇷",
   "version": "1.0",
   "theme": {
      "images": {
-      "theme_frame":"top.png",
-      "theme_ntp_background": "princess.png"
+      "theme_frame":"1.png",
+      "theme_ntp_background": "11.png"
     },
     "properties": {
   "ntp_background_alignment": "center",
   "ntp_background_repeat": "no-repeat"
     },
     "colors": {
-        "frame": [231,199,102], 
-        "frame_inactive": [190, 160, 50],
-
-        "toolbar": [231,199,102],
-
-        "tab_text": [255, 255, 255],
-        "tab_background_text": [255, 255, 255],
-
-        "bookmark_text": [0, 0, 0],
-
-        "omnibox_background": [255, 248, 220],
-        "omnibox_text": [0, 0, 0],
-
-        "toolbar_button_icon": [255, 255, 255],
-
-        "ntp_background": [231,199,102]
+      "frame": [153, 194, 255],
+      "frame_inactive": [255,255,255],
+      "toolbar":[153, 194, 255],
+      "tab_text": [0,0,0],
+      "tab_background_text": [255,255,255],
+      "tab_background": [153, 194, 255],
+      "tab_background_inactive": [252,177,216],
+      "bookmark_text": [0, 0, 0],
+      "omnibox_background": [255, 245, 247],
+      "omnibox_text": [0, 0, 0],
+      "toolbar_button_icon": [0,0,0],
+      "ntp_background": [255,255,255]
+      
     }
   }
 }
